@@ -14,9 +14,9 @@ The project focuses on the core needs of a textile business:
 ## The Tech Stack
 
 I built this using the tools I rely on for robust development:
-* **Language:** [e.g., Kotlin / JavaScript / Python]
-* **Framework:** [e.g., Android SDK / React / Django]
-* **Database:** [e.g., Firebase / MySQL / MongoDB]
+* **Language:** [JavaScript]
+* **Framework:** [React]
+* **Database:** [Firebase]
 
 ## How to Run It
 
